@@ -1,0 +1,96 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbo_main .jumbotron {
+  background-image:url('./kaleigh_lake.jpg');
+  height: 500px;
+  background-position: 50% 35%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbo_about .jumbotron {
+  background-image:url('./hikingboots.jpg');
+  height: 500px;
+  background-position: 50% 35%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbo_contact .jumbotron {
+  background-image:url('./typewriter2.jpg');
+  height: 500px;
+  background-position: 50% 35%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbo_projects .jumbotron {
+  background-image:url('./desk1.jpg');
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #ecf0f1;
+  font-size: 48px;  
+  font-family: 'Rancho', cursive;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #ecf0f1;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Rancho', cursive;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.project-grid {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.project-grid h2 {
+    color: #393c3d;
+    font-size: 24px;
+	font-family: 'Rancho', cursive;
+	font-weight: bold;
+}
+
+.project-grid p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.footer-info .container {
+	position: relative;
+}
+
+.thumbnail {
+	height: 300px;
+	width: 300px;
+}
