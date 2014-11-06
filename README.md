@@ -1,4 +1,3 @@
 personal-portfolio
 ==================
-
-Personal website/portfolio
+My personal website/portfolio. 
