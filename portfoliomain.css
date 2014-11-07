@@ -11,28 +11,28 @@
 }
 
 .jumbo_main .jumbotron {
-  background-image:url('./kaleigh_lake.jpg');
+  background-image:url('http://i46.photobucket.com/albums/f129/kigerlich/kaleigh_lake_zps0d21bd26.jpg');
   height: 500px;
   background-position: 50% 35%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .jumbo_about .jumbotron {
-  background-image:url('./hikingboots.jpg');
+  background-image:url('http://i46.photobucket.com/albums/f129/kigerlich/hikingboots_zps55f2d412.jpg')
   height: 500px;
   background-position: 50% 35%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .jumbo_contact .jumbotron {
-  background-image:url('./typewriter2.jpg');
+  background-image:url('http://i46.photobucket.com/albums/f129/kigerlich/typewriter2_zpscfe51a70.jpg');
   height: 500px;
   background-position: 50% 35%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .jumbo_projects .jumbotron {
-  background-image:url('./desk1.jpg');
+  background-image:url('http://i46.photobucket.com/albums/f129/kigerlich/desk1_zps418cc3e4.jpg');
   height: 500px;
   background-position: center;
   background-repeat: no-repeat;
